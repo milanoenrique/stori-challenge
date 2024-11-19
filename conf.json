@@ -1,0 +1,8 @@
+{
+    "database":{
+        "host":"mysql",
+        "database":"stori",
+        "user":"root",
+        "port":"3306"
+    }
+}

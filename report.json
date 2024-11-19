@@ -1,0 +1,24 @@
+{"Time":"2024-11-17T14:13:55.15101-03:00","Action":"start","Package":"payment-process/cmd/job"}
+{"Time":"2024-11-17T14:13:55.151161-03:00","Action":"start","Package":"payment-process/internal/config"}
+{"Time":"2024-11-17T14:13:55.151225-03:00","Action":"start","Package":"payment-process/internal/database"}
+{"Time":"2024-11-17T14:13:55.151302-03:00","Action":"start","Package":"payment-process/internal/models"}
+{"Time":"2024-11-17T14:13:55.151386-03:00","Action":"start","Package":"payment-process/internal/repositories"}
+{"Time":"2024-11-17T14:13:55.151632-03:00","Action":"output","Package":"payment-process/internal/models","Output":"?   \tpayment-process/internal/models\t[no test files]\n"}
+{"Time":"2024-11-17T14:13:55.151696-03:00","Action":"skip","Package":"payment-process/internal/models","Elapsed":0}
+{"Time":"2024-11-17T14:13:55.151666-03:00","Action":"start","Package":"payment-process/internal/services"}
+{"Time":"2024-11-17T14:13:55.151877-03:00","Action":"start","Package":"payment-process/pkg/utils"}
+{"Time":"2024-11-17T14:13:55.152007-03:00","Action":"start","Package":"payment-process/pkg/utils/logs"}
+{"Time":"2024-11-17T14:13:55.375554-03:00","Action":"output","Package":"payment-process/cmd/job","Output":"\tpayment-process/cmd/job\t\tcoverage: 0.0% of statements\n"}
+{"Time":"2024-11-17T14:13:55.392346-03:00","Action":"output","Package":"payment-process/internal/services","Output":"\tpayment-process/internal/services\t\tcoverage: 0.0% of statements\n"}
+{"Time":"2024-11-17T14:13:55.394931-03:00","Action":"output","Package":"payment-process/internal/config","Output":"\tpayment-process/internal/config\t\tcoverage: 0.0% of statements\n"}
+{"Time":"2024-11-17T14:13:55.396238-03:00","Action":"output","Package":"payment-process/internal/repositories","Output":"\tpayment-process/internal/repositories\t\tcoverage: 0.0% of statements\n"}
+{"Time":"2024-11-17T14:13:55.396325-03:00","Action":"output","Package":"payment-process/pkg/utils/logs","Output":"\tpayment-process/pkg/utils/logs\t\tcoverage: 0.0% of statements\n"}
+{"Time":"2024-11-17T14:13:55.397596-03:00","Action":"output","Package":"payment-process/internal/database","Output":"\tpayment-process/internal/database\t\tcoverage: 0.0% of statements\n"}
+{"Time":"2024-11-17T14:13:55.397822-03:00","Action":"pass","Package":"payment-process/cmd/job","Elapsed":0.247}
+{"Time":"2024-11-17T14:13:55.399305-03:00","Action":"output","Package":"payment-process/pkg/utils","Output":"\tpayment-process/pkg/utils\t\tcoverage: 0.0% of statements\n"}
+{"Time":"2024-11-17T14:13:55.40037-03:00","Action":"pass","Package":"payment-process/internal/services","Elapsed":0.249}
+{"Time":"2024-11-17T14:13:55.403608-03:00","Action":"pass","Package":"payment-process/internal/config","Elapsed":0.252}
+{"Time":"2024-11-17T14:13:55.40401-03:00","Action":"pass","Package":"payment-process/pkg/utils/logs","Elapsed":0.252}
+{"Time":"2024-11-17T14:13:55.404489-03:00","Action":"pass","Package":"payment-process/internal/repositories","Elapsed":0.253}
+{"Time":"2024-11-17T14:13:55.405022-03:00","Action":"pass","Package":"payment-process/internal/database","Elapsed":0.254}
+{"Time":"2024-11-17T14:13:55.405526-03:00","Action":"pass","Package":"payment-process/pkg/utils","Elapsed":0.254}
